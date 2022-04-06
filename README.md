@@ -12,7 +12,7 @@ The bat-cave api handles requests. [Bat Cave API V1](https://batcavepublic.blob.
 
 # environment variables
 
-Environment variables will be provided by an administrator to you before testing starts.
+Environment variables will be provided by an administrator to you before testing starts. You will have `sandbox` environment variables and `production` environment variables. This way you can test your code on the sandbox and send final results to production.
 
 Variable | Description
 ---------- | -----------
