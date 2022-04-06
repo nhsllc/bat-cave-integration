@@ -37,7 +37,7 @@ Complete the following tests in order of apprearance. Use the value in `ID` as t
 
 > Your last request made for each test will be assessed.
 
-ID | Acceptace
+ID | Acceptance
 -- | ---------
 `connect` | Get all contacts and post them back to the `contacts` endpoint.
 `heist` | Get all alive villains, update their location to the bank, and post the results to the `contacts` endpoint.
