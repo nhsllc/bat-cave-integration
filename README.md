@@ -27,7 +27,7 @@ Variable | Description
 * Clone down the repository.
 * Create a new branch and name it your GitHub username.
 * Create an environment file and add it to `.gitignore` so environment variables are not pushed to GitHub.
-* Add your environemnt variables to this environment file.
+* Add your environment variables to this environment file.
 * Complete the tests below.
 * Once finished, make your commits, and push to your branch.
 
