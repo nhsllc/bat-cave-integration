@@ -40,7 +40,6 @@ Complete the following tests in order of apprearance. Use the value in `ID` as t
 ID | Acceptace
 -- | ---------
 `connect` | Get all contacts and post them back to the `contacts` endpoint.
-`cataclysm` | Get all alive contacts, update their status to dead, and post the results to the `contacts` endpoint.
 `heist` | Get all alive villains, update their location to the bank, and post the results to the `contacts` endpoint.
 `powers` | For Superman, add a property called `powers` as a string array, and add `Laser Eyes` and `X-Ray Vision` to it. For Scarecrow, add a property called `powers` as a string array, add `Toxic Immunity` to it, add another property called `abilities`, add `Pedagogy` to it, and post the results to the `contacts` endpoint.
 `birthdays` | For all contacts that have an age not `Unknown`, calculate their birth year into a new property called `birthYear` as a date string in the format `MM-dd-yyyy`, and post the oldest result to the `contacts` endpoint.
