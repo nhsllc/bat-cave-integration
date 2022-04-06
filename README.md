@@ -35,7 +35,7 @@ Variable | Description
 
 Complete the following tests in order of apprearance. Use the value in `ID` as the `test_case` header. 
 
-> Your last request made for each test will be assesed.
+> Your last request made for each test will be assessed.
 
 ID | Acceptace
 -- | ---------
