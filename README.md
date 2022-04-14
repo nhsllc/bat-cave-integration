@@ -18,7 +18,7 @@ Variable | Description
 ---------- | -----------
 `clientId` | This is your client id to generate your authentication token.
 `clientSecret` | This is your client secret used to generate your authentication token.
-`Subscription` | This is a key that is required to make any requests to the bat-cave api endpoints besides `auth`.
+`Subscription` | This is a key that is required to make any requests to the bat-cave api endpoints.
 `apiUrl` | This is the url to the bat-cave api.
 `requestor` | This is your unique app identifier for your client.
 
